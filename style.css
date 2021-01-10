@@ -1,0 +1,196 @@
+body
+{
+background-color: #f8f8f8; /* Фон страницы будет черным */
+}
+
+/*h3 {
+    color:red
+}
+
+p {
+    font-size: 1em;
+}*/
+
+/*background-color:gainsboro;
+    border: 4px solid black; 
+    text-align:center;*/
+
+/*.blue {
+    color:blue;
+    background: url(img/armstrong-lui-2.jpg) no-repeat 30px 50px;
+}*/
+
+
+/*.list li {
+    width: 40px;
+    height: 25px;
+    border: 1px solid #000;
+}*/
+
+.menu li a {
+    color:darkcyan;
+    font-size: 18px;
+    font-style:italic
+}
+
+
+.heading {
+    color:black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color:#eaeaea;
+}
+
+/*.list + p {
+    color:dargreen;
+}
+
+.link {
+    text-decoration: none;
+    text-transform: uppercase;
+}*/
+
+.short {
+    color: #707070;
+    font-size: 14px;
+    font-style:italic;
+    line-height: 16px;
+}
+
+.long {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left
+}
+
+.list li {
+    list-style-image: url(img/small_trumpet_1.jpg);
+
+}
+
+/* list-style-type: none;
+    widht:10px;
+    height:10px */
+
+.list {
+    color:crimson;
+     text-align: left  
+}
+
+.registration input {
+    weight: 200px;
+    height: 40px;
+    color:brown;
+    font-size:14px;
+    text-transform: capitalize
+}
+
+input.email {
+    color:green;
+    font-size:14px;
+    background-color: gainsboro
+}
+.catalog_image img{
+    outline: 3px solid green
+}
+
+a.image_link{
+    outline: 3px solid green
+}
+a.image_link:hover{
+    outline: 0px
+    
+}
+
+.menu li a:hover{
+    color:red;
+}
+
+.menu li a:active{
+    color:blue;
+}
+
+.product_description p:first-letter{
+    color: brown;
+    font-size: 16px;
+    font-style:italic
+}
+
+/*.menu li:first-child{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.menu li:last-child{
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.menu li {
+    width: 200px;
+    height: 30px;
+    list-style-type: none;
+    border: 1px solid #000;
+    text-align: center;
+}*/
+
+/*.menu li:nth-child(2n){
+    background-color: #ccc;*/
+}
+/*.menu li:nth-child(2n) a{
+    color:coral;
+}*/
+ 
+/*.list li:nth-child(3):after{
+    content: "new";
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+.menu li:hover:after {
+    content: ">>";
+    color:red;*/
+}
+/*.long:first-letter {
+    font-size: 30px;
+    color:red
+}*/
+
+
+/*table2 {
+    border: 1px solid #000;
+    width: 400px;
+    height: 200px;
+}
+
+td {
+    border: 1px solid #000;
+}
+
+td.bigtable {
+    border: 3px solid green;
+}
+
+.table td {
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 40px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.five {
+    background-color: green;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000
+}
+
+span {
+    color:red;
+}*>*/
